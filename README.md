@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I work at Mediatek as software enginner.
-My job is developing %G system software.
+I work at Mediatek as a software enginner.
+ I’m currently working on 5G system software.
 
 All questions are welcome!
 
