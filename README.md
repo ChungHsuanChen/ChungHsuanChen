@@ -1,2 +1,1 @@
-[![Anurag's GitHub stats](https://chung-hsuan-chen-readme-chunghsuanchen.vercel.app/api/top-langs?username=ChungHsuanChen&hide=php&show_icons=true&theme=dark&layout=compact)
-[![Anurag's GitHub stats](https://chung-hsuan-chen-readme-chunghsuanchen.vercel.app/api?username=ChungHsuanChen&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungHsuanChen&show_icons=true&theme=apprentice) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ChungHsuanChen&hide=php&show_icons=true&theme=apprentice&layout=compact)
