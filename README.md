@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am ChungHsuanChen.
-- 🔭 I’m currently working on 5G system software at **MEDIATEK**
+- 🔭 I’m currently working on 5G DSP software at **MEDIATEK**
 - 🌱 I’m interested in operating system, Linux kernel.
 - 📫 How to reach me: chunghsuanchen7@gmail.com
 - Side project: MultithreadHodgePodge
